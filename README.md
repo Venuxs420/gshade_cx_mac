@@ -11,16 +11,15 @@ Support inside the <b>XIV on Mac</B> discord in #support-gshade text channel: ht
 
 <h3>Setup:</h3>
 
-Clone this github <b>(RECOMMENDED)</b><br>
-or click unsigned <b>"gshade_mac script"</b> from the release section to the right.<br>
-<img src="/gh images/release.png"></a> </p>
-
-Download "gshade_mac.zip" and extract the "gshade_mac" folder.
+Choose one of 3 Download options:<br>
+1) <b>(RECOMMENDED)</b> Download/clone this github<br>
+2) <b>(RECOMMENDED)</b> or Download and run "gshade_installer.sh" in terminal from https://github.com/HereInPlainSight/gshade_installer<br><br>
+3) <b>(NOT RECOMMENDED)</b> or click unsigned <b>"gshade_mac script"</b> from the release section to the right. <br>
 
 <img src="/gh images/download.png"></a> </p>
 
-Open the "gshade_mac" folder and click "install.command"<br>
-The release is not signed and will prompt gatekeeper message, you can control+click "install.command" to bypass it.<br>
+Open the "gshade_mac" folder and run "manual_gshade.sh" inside terminal or "gshade_installer.sh" if you chose option 2. <br>
+If you choose option three, "install.command" will prompt gatekeeper message, you can control+click "install.command" to bypass it.<br>
 
 <img src="/gh images/install1.png"></a> </p>
 
