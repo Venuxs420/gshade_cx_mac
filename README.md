@@ -8,7 +8,7 @@ Simple guide for getting Gshade installed in to your Crossover Mac games.
 <h3>Setup:</h3>
 
 Clone this github <b>(RECOMMENDED)</b><br>
-or click unsigned<b>"gshade_mac script"</b> from the release section to the right.<br>
+or click unsigned <b>"gshade_mac script"</b> from the release section to the right.<br>
 <img src="/gh images/release.png"></a> </p>
 
 Download "gshade_mac.zip" and extract the "gshade_mac" folder.
