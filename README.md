@@ -12,3 +12,8 @@ First, click <b>"gshade_mac script"</b> from the release section to the right.<b
 Download "gshade_mac.zip" and extract the "gshade_mac" folder.
 
 <img src="/gh images/download.png"></a> </p>
+
+Open the "gshade_mac" folder and click "install.command"
+If you get a gatekeeper message, you can control+click "install.command"
+
+
