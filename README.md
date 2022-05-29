@@ -20,3 +20,14 @@ The release is not signed and will prompt gatekeeper message, you can control+cl
 
 <img src="/gh images/install1.png"></a> </p>
 
+
+Type "2" to Install to a custom game.<br>
+
+<img src="/gh images/customgame.png"></a> </p>
+
+When <b>"Install with dxgi?</b> prompt comes up,<br>
+
+Type "Y" if your game is a DirectX 11 64-bit game <br>
+or "N" if your game is a DirectX 9 64-bit game.
+
+If prompted what api to use, only choose dx9 or dx11.
