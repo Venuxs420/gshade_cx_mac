@@ -45,3 +45,7 @@ Next, you will be prompted to find the game's .exe. Locate your games ".exe" wit
 
 <img src="/gh images/exe.png"></a> </p>
 
+If you followed the instructions correctly and have all the correct parameters, gshade should now load next time you run the game.<br>
+Shift+F2 or FN+Shift+F2 on Macbook to enter gshade settings.
+
+
