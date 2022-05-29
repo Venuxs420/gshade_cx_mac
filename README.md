@@ -32,3 +32,6 @@ or "N" if your game is a DirectX 9 64-bit game.
 
 If prompted what api to use, only choose dx9 or dx11.
 <img src="/gh images/dx.png"></a> </p>
+
+Next we need to locate the WINEPREFIX where drive_c is at for your Crossover installed game and copy the directory path after the terminal prompt.<br>
+You can easily find this by using finder and going to ```~/Library/Application Support/Crossover/Bottles/``
