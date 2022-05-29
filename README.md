@@ -45,7 +45,8 @@ Next, you will be prompted to find the game's .exe. Locate your games ".exe" wit
 
 <img src="/gh images/exe.png"></a> </p>
 
-If you followed the instructions correctly and have all the correct parameters, gshade should now load next time you run the game.<br>
-Shift+F2 or FN+Shift+F2 on Macbook to enter gshade settings.
+If you followed the instructions correctly and have all the correct parameters, gshade should now load next time you run the game.<br><br>
+Shift+F2 or FN+Shift+F2 on Macbook to enter gshade settings.<br>
+Preview of Trine 3 (DX9 64-Bit game) running gshade in Crossover Mac: 
 
-
+<img src="/gh images/trine.png"></a> </p>
