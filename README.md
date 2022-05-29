@@ -19,7 +19,7 @@ Choose one of 3 Download options:<br>
 <img src="/gh images/download.png"></a> </p>
 
 Open the "gshade_mac" folder and run "manual_gshade.sh" inside terminal or "gshade_installer.sh" if you chose option 2. <br><br>
-If you choose option three, "install.command" will prompt gatekeeper message, you can control+click "install.command" to bypass it.<br>
+If you chose to download option three, "install.command" will prompt gatekeeper message, you can control+click "install.command" to bypass it.<br>
 
 <img src="/gh images/install1.png"></a> </p>
 
