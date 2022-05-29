@@ -31,3 +31,4 @@ Type "Y" if your game is a DirectX 11 64-bit game <br>
 or "N" if your game is a DirectX 9 64-bit game.
 
 If prompted what api to use, only choose dx9 or dx11.
+<img src="/gh images/dx.png"></a> </p>
