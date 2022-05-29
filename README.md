@@ -5,6 +5,10 @@ Simple guide for getting Gshade installed in to your Crossover Mac games.
 - Latest Mac Crossover installed (download Mac CX here: https://www.codeweavers.com/)<br>
 - A working Windows 64-bit executable game within Mac Crossover that uses DirectX 9 or 11. <i>(This isn't a Crossover game setup guide)</i><br>
 - Knowledge of working directories inside MacOS.<br>
+<hr>
+Support inside the <b>XIV on Mac</B> discord in #support-gshade text channel: https://xivmac.com/discord
+<hr>
+
 <h3>Setup:</h3>
 
 Clone this github <b>(RECOMMENDED)</b><br>
@@ -56,7 +60,7 @@ Preview of Trine 3 (DX9 64-Bit game) running gshade in Crossover Mac:
 
 <hr>
 
-Thanks to<br> 
+Thanks to:<br> 
 https://gposers.com/gshade <br>
 https://github.com/HereInPlainSight/ for his Linux script<br>
 https://github.com/marzent for his pr's and making Gshade more Mac friendly.
