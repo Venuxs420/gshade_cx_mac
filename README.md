@@ -59,7 +59,7 @@ Preview of Trine 3 (DX9 64-Bit game) running gshade in Crossover Mac:
 
 <hr>
 
-Thanks to:<br> 
+<b>Thanks to:</b><br> 
 https://gposers.com/gshade <br>
 https://github.com/HereInPlainSight/ for his Linux script<br>
 https://github.com/marzent for his pr's and making Gshade more Mac friendly.
