@@ -3,8 +3,10 @@ Simple guide for getting Gshade installed in to your Crossover Mac games.
 
 <h3>Prerequisites:</h3>
 - Latest Mac Crossover installed (download Mac CX here: https://www.codeweavers.com/)<br>
-- A working Windows 64-bit executable game within Mac Crossover that uses DirectX 9 or 11. <i>(This isn't a Crossover game setup guide)</i><br>
-- Knowledge of working directories inside MacOS.<br>
+- A working Windows 64-bit executable game within Mac Crossover that uses DirectX 9 or 11. 
+- Knowledge of working directories inside MacOS.<br><br>
+
+<i>(This isn't a Crossover game setup guide)</i><br>
 <hr>
 Support inside the <b>XIV on Mac</B> discord in #support-gshade text channel: https://xivmac.com/discord
 <hr>
