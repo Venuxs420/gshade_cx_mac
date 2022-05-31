@@ -1,4 +1,4 @@
-# Gshade for Crossover Mac games
+# Gshade for Crossover Mac
 Simple guide for getting Gshade installed in to your Crossover Mac games.
 
 <h3>Prerequisites:</h3>
