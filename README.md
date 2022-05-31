@@ -38,7 +38,7 @@ or "N" if your game is a DirectX 9 64-bit game.
 If prompted what api to use, only choose dx9 or dx11.
 <img src="/gh images/dx.png"></a> </p>
 
-Next we need to locate the WINEPREFIX where drive_c is at for your Crossover installed game and copy the directory path after the terminal prompt.<br>
+Next we need to locate the WINEPREFIX where drive_c is at for your Crossover installed game and copy the directory path after the terminal prompt.<br><br>
 You can easily find this by using Mac's Finder and going to ```~/Library/Application Support/Crossover/Bottles/```<br><br>
 Here is an example of my Crossover bottle (Custom Wine Mac Game):
 <img src="/gh images/drivec.png"></a> </p>
