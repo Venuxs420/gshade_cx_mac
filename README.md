@@ -16,7 +16,7 @@ Choose one of 2 Download options:<br>
 2) <b>(RECOMMENDED)</b> or Download "gshade_installer.sh" from https://github.com/HereInPlainSight/gshade_installer<br><br>
 
 
-<img src="/gh images/download.png"></a> </p>
+<img src="/gh images/first.png"></a> </p>
 
 Open the "gshade_mac" folder and run "manual_gshade.sh" inside terminal or "gshade_installer.sh" if you chose option 2. <br><br>
 
