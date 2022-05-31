@@ -13,7 +13,7 @@ Support inside the <b>XIV on Mac</B> discord in #support-gshade text channel: ht
 
 Choose one of 2 Download options:<br>
 1) <b>(RECOMMENDED)</b> Download/clone this github<br>
-2) <b>(RECOMMENDED)</b> or Download "gshade_installer.sh" from <br>https://github.com/HereInPlainSight/gshade_installer<br><br>
+2) <b>(RECOMMENDED)</b> or Download "gshade_installer.sh" from https://github.com/HereInPlainSight/gshade_installer<br><br>
 
 
 <img src="/gh images/download.png"></a> </p>
