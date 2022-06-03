@@ -22,11 +22,11 @@ Choose one of 2 Download options:<br>
 
 Open the "gshade_mac" folder and type "sh" space and drag either "manual_gshade.sh" or "gshade_installer.sh" into terminal <br><br>
 
-Example:<br>
-<img src="/gh images/script.gif"></a> </p>
+Example:<br><br>
+<img src="/gh images/script.gif"></a> </p><br>
 
 
-
+You should now see install options in terminal after the script has loaded:
 <img src="/gh images/install1.png"></a> </p>
 
 
