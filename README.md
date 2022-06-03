@@ -20,7 +20,7 @@ Choose one of 2 Download options:<br>
 
 <img src="/gh images/first.png"></a> </p>
 
-Type "sh" space and drag either "manual_gshade.sh" or "gshade_installer.sh" into terminal. <br><br>
+Type "sh" space, and drag either "manual_gshade.sh" or "gshade_installer.sh" into terminal. <br><br>
 
 Example:<br><br>
 <img src="/gh images/script.gif"></a> </p><br>
