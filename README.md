@@ -12,7 +12,7 @@ Simple guide for getting Gshade installed in to your Crossover Mac games.
 Support inside the <b>XIV on Mac</B> discord in #support-gshade text channel: https://xivmac.com/discord
 <hr>
 
-<h3>Setup:</h3>
+<h1>Start here to setup Gshade:</h1>
 
 Choose one of 2 Download options:<br>
 1)  <b>(RECOMMENDED)</b> Download/clone this github<br>
