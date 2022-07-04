@@ -38,11 +38,11 @@ Type "2" to Install to a custom game.<br>
 When <b>"Install with dxgi?</b> prompt comes up,<br>
 
 Type "Y" if your game is a DirectX 11 64-bit game <br>
-or "N" if your game is a DirectX 9 64-bit game <b>(Sims 4 players choose "N" here!)</b><br><br>
+or "N" if your game is a DirectX 9 64-bit game <br><img src="/gh images/the_sims2.png"></a><b> (Sims 4 players choose "N" here!)</b></p><br><br>
 
 <hr>
 
-If prompted what api to use, only choose dx9 or dx11. <b>(Sims 4 users choose DX9)</b>
+If prompted what api to use, only choose dx9 or dx11.<br> <img src="/gh images/the_sims2.png"></a><b> (Sims 4 players choose DX9)</b></p>
 <img src="/gh images/dx.png"></a> </p>
 
 <hr>
@@ -54,12 +54,13 @@ Here is an example of my Crossover bottle (Custom Wine Mac Game):
 
 <hr>
 
-Next, copy your games bottle folder directly into the terminal prompt, in my example the "Custom Wine Mac Game" bottle folder. This will complete the folder path automatically for you. You can then press enter. <br><br><b>(Sims 4 users bottle should be called "Origin" if you installed the game with Origin launcher)</b>
+Next, copy your games bottle folder directly into the terminal prompt, in my example the "Custom Wine Mac Game" bottle folder. This will complete the folder path automatically for you. You can then press enter. <br><br><img src="/gh images/the_sims2.png"></a><b> (Sims 4 users bottle should be called "Origin" if you installed the game with Origin launcher)</b></p>
 <img src="/gh images/drivecpath.png"></a> </p>
 
 <hr>
 
-Next, you will be prompted to find the game's .exe. Locate your games ".exe" within the "drive_c" folder and copy that ".exe" over to the terminal prompt as so. You can now press enter again to complete Gshade install.
+Next, you will be prompted to find the game's .exe. Locate your games ".exe" within the "drive_c" folder and copy that ".exe" over to the terminal prompt as so. You can now press enter again to complete Gshade install.<br>
+<img src="/gh images/the_sims2.png"></a><b> (Sims 4 users use the "TS4_x64.exe" file)</b></p>
 
 <img src="/gh images/exe.png"></a> </p>
 
