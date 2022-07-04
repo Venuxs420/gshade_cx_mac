@@ -37,7 +37,9 @@ Type "2" to Install to a custom game.<br>
 When <b>"Install with dxgi?</b> prompt comes up,<br>
 
 Type "Y" if your game is a DirectX 11 64-bit game <br>
-or "N" if your game is a DirectX 9 64-bit game.
+or "N" if your game is a DirectX 9 64-bit game<br><br>
+
+<b>Sims 4 players choose "N" here!</b><br><br>
 
 If prompted what api to use, only choose dx9 or dx11.
 <img src="/gh images/dx.png"></a> </p>
@@ -62,6 +64,11 @@ Shift+F2 or FN+Shift+F2 on Macbook to enter gshade settings.<br><br>
 Preview of Trine 3 (DX9 64-Bit game) running gshade in Crossover Mac: 
 
 <img src="/gh images/trine2.png"></a> </p>
+
+<h2>Sims 4 in Crossover special intructions</h2><br>
+Make sure your game symlink is set to DX9 within the script.<br><br>
+Inside Crossover, make sure <b>"DXVK backend for dx11"</b> is turned OFF!<br><br>
+<img src="/gh images/sims4.png"></a> </p>
 
 <hr>
 
