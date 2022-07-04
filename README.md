@@ -4,10 +4,14 @@ Simple guide for getting Gshade installed in to your Crossover Mac games.
 <h3>Prerequisites:</h3>
 - Latest Mac Crossover installed (download Mac CX here: https://www.codeweavers.com/)<br>
 - A working Windows 64-bit executable game within Mac Crossover that uses DirectX 9 or 11. <br>
-- Knowledge of working directories inside MacOS.<br><br>
+- Knowledge of working directories inside MacOS.<br>
+<hr>
 
-<b>This guide has additional steps for Sims 4 players using Crossover on Mac</b><br>
-<b>The native Mac version of Sims 4 is NOT supported. Install Origin inside Crossover and use the Windows version of Sims 4</b><br>
+<img src="/gh images/sims4p"></a> </p><br>
+
+<h3>This guide has additional steps for Sims 4 players using Crossover on Mac</h3>
+<h3>The native Mac version of Sims 4 is NOT supported!!!!!</h3>
+<h3>Install Origin inside Crossover and use the Windows version of Sims 4</h3>
 
 <hr>
 Support inside the <b>XIV on Mac</B> discord in #support-gshade text channel: https://xivmac.com/discord
