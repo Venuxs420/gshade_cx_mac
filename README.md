@@ -53,7 +53,7 @@ Here is an example of my Crossover bottle (Custom Wine Mac Game):
 
 <hr>
 
-Next, copy your games bottle folder directly into the terminal prompt, in my example the "Custom Wine Mac Game" bottle folder. This will complete the folder path automatically for you. You can then press enter.
+Next, copy your games bottle folder directly into the terminal prompt, in my example the "Custom Wine Mac Game" bottle folder. This will complete the folder path automatically for you. You can then press enter. <br><br><b>(Sims 4 users bottle should be called "Origin" if you installed the game with Origin launcher)</b>
 <img src="/gh images/drivecpath.png"></a> </p>
 
 <hr>
