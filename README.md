@@ -1,5 +1,6 @@
 # Gshade for Crossover Mac
-Simple guide for getting Gshade installed in to your Crossover Mac games.
+Simple guide for getting Gshade installed in to your Crossover Mac games.<br>
+I've added additional steps for <b>Sims 4 players</b>, please pay attention for the <img src="/gh images/the_sims2.png"></a> icon!</p>
 
 <h3>Prerequisites:</h3>
 - Latest Mac Crossover installed (download Mac CX here: https://www.codeweavers.com/)<br>
@@ -109,9 +110,9 @@ Preview of Trine 3 (DX9 64-Bit game) running gshade in Crossover Mac:
 
 <img src="/gh images/trine2.png"></a> </p>
 
-Sims 4 users please continue to next section below!
+<img src="/gh images/the_sims2.png"></a> <b> (Sims 4 users please continue to next section below!</b></p>
 
-<h2>Sims 4 in Crossover special intructions:</h2><br>
+<h2><img src="/gh images/the_sims2.png"></a> Sims 4 extra intructions:</h2><br></p<
 
 Inside Crossover, make sure <b>"DXVK backend for dx11"</b> is turned OFF!<br><br>
 <img src="/gh images/sims4.png"></a> </p>
