@@ -65,7 +65,7 @@ Next, you will be prompted to find the game's .exe. Locate your games ".exe" wit
 
 <hr>
 
-Next, we need to set overrides in Crossover.<br><br>
+<b>Next, we need to set overrides in Crossover</b><br><br>
 
 After install, open wine configuration:</h6>
 <br><br>
