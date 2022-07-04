@@ -39,23 +39,30 @@ When <b>"Install with dxgi?</b> prompt comes up,<br>
 Type "Y" if your game is a DirectX 11 64-bit game <br>
 or "N" if your game is a DirectX 9 64-bit game <b>(Sims 4 players choose "N" here!)</b><br><br>
 
-If prompted what api to use, only choose dx9 or dx11. <b>(Sim 4 users choose DX9)</b>
+<hr>
+
+If prompted what api to use, only choose dx9 or dx11. <b>(Sims 4 users choose DX9)</b>
 <img src="/gh images/dx.png"></a> </p>
+
+<hr>
 
 Next we need to locate the WINEPREFIX where drive_c is at for your Crossover installed game and copy the directory path after the terminal prompt.<br><br>
 You can easily find this by using Mac's Finder and going to ```~/Library/Application Support/Crossover/Bottles/```<br><br>
 Here is an example of my Crossover bottle (Custom Wine Mac Game):
 <img src="/gh images/drivec.png"></a> </p>
 
+<hr>
 
 Next, copy your games bottle folder directly into the terminal prompt, in my example the "Custom Wine Mac Game" bottle folder. This will complete the folder path automatically for you. You can then press enter.
 <img src="/gh images/drivecpath.png"></a> </p>
 
+<hr>
 
 Next, you will be prompted to find the game's .exe. Locate your games ".exe" within the "drive_c" folder and copy that ".exe" over to the terminal prompt as so. You can now press enter again to complete Gshade install.
 
 <img src="/gh images/exe.png"></a> </p>
 
+<hr>
 
 If you followed the instructions correctly and have all the correct parameters, gshade should now load next time you run the game.<br><br>
 Shift+F2 or FN+Shift+F2 on Macbook to enter gshade settings.<br><br>
