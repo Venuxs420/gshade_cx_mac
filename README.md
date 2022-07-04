@@ -63,10 +63,12 @@ If you followed the instructions correctly and have all the correct parameters, 
 Shift+F2 or FN+Shift+F2 on Macbook to enter gshade settings.<br><br>
 Preview of Trine 3 (DX9 64-Bit game) running gshade in Crossover Mac: 
 
-<img src="/gh images/trine2.png"></a> </p>
+<img src="/gh images/trine2.png"></a> </p><br><br>
 
-<h2>Sims 4 in Crossover special intructions</h2><br>
-Make sure your game symlink is set to DX9 within the script.<br><br>
+Sims 4 users continue to next section below!
+
+<h2>Sims 4 in Crossover special intructions</h2><br><br>
+
 Inside Crossover, make sure <b>"DXVK backend for dx11"</b> is turned OFF!<br><br>
 <img src="/gh images/sims4.png"></a> </p>
 
