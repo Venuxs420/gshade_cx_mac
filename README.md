@@ -64,6 +64,43 @@ Next, you will be prompted to find the game's .exe. Locate your games ".exe" wit
 
 <hr>
 
+Next, we need to set overrides in Crossover.<br><br>
+
+After install, open wine configuration:</h6>
+<br><br>
+<p align="center"> 
+<img src="https://i.imgur.com/oBp3UPL.png">
+</p>
+
+------------------------------------------------------------------------------------------------------------
+<h6>Add these overrides and edit their load orders:<b5>
+<br><br>
+
+New override for library: d3dcompiler_47 - <b>edit</b> to (native)
+  <p align="center"> 
+<img src="/gh images/over1.png"></a> 
+</p>
+
+New override for library: d3d9 - <b>edit</b> to (native, builtin)
+  <p align="center"> 
+<img src="/gh images/over2.png"></a> 
+</p>
+
+New override for library: d3d11 - <b>edit</b> to (native, builtin)
+  <p align="center"> 
+<img src="/gh images/over3.png"></a> 
+</p>
+
+New override for library: dxgi - <b>edit</b> to (native, builtin)
+  <p align="center"> 
+<img src="/gh images/over4.png"></a> 
+</p>
+
+
+After these have been overridden, restart crossover. These need to be set prior to running game and after installing Gshade.</h6></div>
+
+<hr>
+
 If you followed the instructions correctly and have all the correct parameters, gshade should now load next time you run the game.<br><br>
 Shift+F2 or FN+Shift+F2 on Macbook to enter gshade settings.<br><br>
 Preview of Trine 3 (DX9 64-Bit game) running gshade in Crossover Mac: 
