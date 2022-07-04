@@ -67,7 +67,7 @@ Preview of Trine 3 (DX9 64-Bit game) running gshade in Crossover Mac:
 
 Sims 4 users please continue to next section below!
 
-<h2>Sims 4 in Crossover special intructions:</h2><br><br>
+<h2>Sims 4 in Crossover special intructions:</h2><br>
 
 Inside Crossover, make sure <b>"DXVK backend for dx11"</b> is turned OFF!<br><br>
 <img src="/gh images/sims4.png"></a> </p>
