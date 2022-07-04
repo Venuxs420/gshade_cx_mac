@@ -7,7 +7,7 @@ Simple guide for getting Gshade installed in to your Crossover Mac games.
 - Knowledge of working directories inside MacOS.<br>
 <hr>
 <br>
-<img src="/gh images/sims4p.png"></a> </p><br>
+<img src="/gh images/sims4p.png"></a> </p>
 <hr>
 Support inside the <b>XIV on Mac</B> discord in #support-gshade text channel: https://xivmac.com/discord
 <hr>
