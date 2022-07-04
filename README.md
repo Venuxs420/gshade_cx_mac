@@ -41,7 +41,7 @@ or "N" if your game is a DirectX 9 64-bit game<br><br>
 
 <b>Sims 4 players choose "N" here!</b><br><br>
 
-If prompted what api to use, only choose dx9 or dx11.
+If prompted what api to use, only choose dx9 or dx11. <b>(Sim 4 users choose DX9)</b>
 <img src="/gh images/dx.png"></a> </p>
 
 Next we need to locate the WINEPREFIX where drive_c is at for your Crossover installed game and copy the directory path after the terminal prompt.<br><br>
